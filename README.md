@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">🔭   I’m currently open for a new job opportunity about ReactJS, React Native.<br><br>📫 How to reach me: phuoc.18112002@gmail.com<br><br>⚡ I love using Software as a solution for every Problem</p>
+<p align="left">🔭   I’m currently open for a new job opportunity about ReactJS, React Native.<br><br>📫 How to reach me: <a href="mailto:phuoc.18112002@gmail.com">phuoc.18112002@gmail.com</a><br><br>⚡ I love using Software as a solution for every Problem</p>
 
 ###
 
